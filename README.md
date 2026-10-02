@@ -1,5 +1,5 @@
 # The Arena
-
+![the-arena](docs/images/arena-logo.jpg)
 Launch, approve, and monitor DBOS-orchestrated workflows (Triple Threat, Gauntlet) from one page. Replaces Mattermost's role as the launch/approve/notify surface for both — Mattermost is being retired from the platform, this is its replacement, not an addition alongside it.
 
 Live at `http://arena.<your-internal-domain>` (redirects to `/arena`) or `http://<any-node-ip>:31010/arena`.
